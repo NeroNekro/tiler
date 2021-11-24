@@ -1,0 +1,8 @@
+altgraph==0.17.2
+macholib==1.15.2
+modulegraph==0.19.2
+Pillow==8.4.0
+py2app==0.26.1
+pyinstaller==4.5.1
+pyinstaller-hooks-contrib==2021.3
+PySimpleGUI==4.49.0
